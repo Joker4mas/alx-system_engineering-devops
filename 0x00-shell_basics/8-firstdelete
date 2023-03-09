@@ -1,2 +1,2 @@
 #!/bin/bash
-rm betty less /tmp/my_first_directory/betty
+rm betty ls /tmp/my_first_directory/
